@@ -7,6 +7,7 @@ reference recording, and the values are then applied to squating trials.
 The data is provided by Maria Jönsson from KTH (Royal Institute of Technology
 School of Technology and Health) in Sweden.
 
+The example data is taken from a male subject performing a flywheel squat. The traction force from the harness was measured and is applied to the torso, attached in a point indicated by a marker TRAC.
 
 ![StandingRefOptimzation](https://cloud.githubusercontent.com/assets/1038978/24747389/87a99f74-1abc-11e7-8953-6323c0a0334a.gif) ![FlyWheelSquat](https://cloud.githubusercontent.com/assets/1038978/24746857/d3f0b13a-1aba-11e7-8b02-ef7eab1dd260.gif) 
 
